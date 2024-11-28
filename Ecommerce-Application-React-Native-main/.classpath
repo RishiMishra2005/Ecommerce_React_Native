@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="android/app/src/debug/java"/>
+	<classpathentry kind="src" path="android/app/src/main/java"/>
+	<classpathentry kind="src" path="android/app/src/release/java"/>
+	<classpathentry kind="src" path="node_modules/@react-native-async-storage/async-storage/android/src/main/java"/>
+	<classpathentry kind="src" path="node_modules/expo-modules-core/android/src/main/java"/>
+	<classpathentry kind="src" path="node_modules/react-native-razorpay/android/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="node_modules/react-native-razorpay/android/src/main/java"/>
+	<classpathentry kind="src" path="node_modules/react-native-safe-area-context/android/src/paper/java"/>
+	<classpathentry kind="src" path="node_modules/react-native-screens/android/src/paper/java"/>
+	<classpathentry kind="src" path="node_modules/react-native/ReactAndroid/src/main/java"/>
+	<classpathentry kind="src" path="node_modules/react-native/template/android/app/src/debug/java"/>
+	<classpathentry kind="src" path="node_modules/react-native/template/android/app/src/main/java"/>
+	<classpathentry kind="src" path="node_modules/react-native/template/android/app/src/release/java"/>
+	<classpathentry kind="lib" path="android/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="node_modules/@react-native/gradle-plugin/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="node_modules/react-native-razorpay/android/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/generateDebugRFile/R.jar"/>
+	<classpathentry kind="lib" path="node_modules/react-native-razorpay/android/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="node_modules/react-native/template/android/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
